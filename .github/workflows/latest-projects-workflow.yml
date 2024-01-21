@@ -7,7 +7,7 @@ permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
-  update-readme-with-blog:
+  update-readme-with-last-projects:
     name: Update this repo's README with latest project posts
     runs-on: ubuntu-latest
     steps:
