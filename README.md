@@ -8,6 +8,6 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 
-# My latest project
+# My latest project 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
