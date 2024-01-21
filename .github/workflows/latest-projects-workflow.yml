@@ -7,13 +7,13 @@ permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
-  update-readme-with-last-projects:
-    name: Update this repo's README with latest project posts
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://html-css-course-assignment-mohammedab.netlify.app"
+          feed_list: "https://html-css-course-assignment-mohammedab.netlify.app/"
