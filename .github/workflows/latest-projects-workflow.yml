@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://html-css-course-assignment-mohammedab.netlify.app"
+          feed_list: "github.com/NoroffFEU/html-css-course-assignment-MohammedAbi"
