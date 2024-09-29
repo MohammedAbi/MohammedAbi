@@ -1,8 +1,9 @@
 # 💫 About Me
 As a nearly graduated frontend developer pursuing a Higher Professional Degree, I am enthusiastic about translating creative concepts into user-friendly web interfaces. My education has equipped me with essential skills in design processes, interaction design, and programming. Eager to apply my creative design principles, HTML/CSS proficiency, and foundational knowledge of JavaScript to contribute to innovative projects and enhance user experiences.
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedabdulabi/) 
+## 📫 Contact Information
+- **LinkedIn:** [Mohammed Abdul Abi](https://www.linkedin.com/in/mohammedabdulabi/)
+- **Email:** [mohammedabdulabi@gmail.com](mailto:mohammedabdulabi@gmail.com)
 
 ## 🌟 Projects
 
@@ -73,12 +74,6 @@ Based on Mihaly Csikszentmihalyi's flow theory, tasks are matched to users' skil
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MohammedAbi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 📫 Contact Information
-- **LinkedIn:** [Mohammed Abdul Abi](https://www.linkedin.com/in/mohammedabdulabi/)
-- **Email:** [mohammedabdulabi@gmail.com](mailto:mohammedabdulabi@gmail.com)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MohammedAbi&icon=0&color=0)](https://visitcount.itsvg.in)
