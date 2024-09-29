@@ -31,7 +31,8 @@ Let’s connect to discuss how I can grow and contribute to your organization wh
 - **Email:** [mohammedabdulabi@gmail.com](mailto:mohammedabdulabi@gmail.com)
 
 ## 🌐 My Projects on Netlify
-[Netlify Dashboard](https://app.netlify.com/teams/mohammedabi/sites)
+ - [Netlify Dashboard](https://app.netlify.com/teams/mohammedabi/sites)
+
 
 
 ## 📜 Certifications
