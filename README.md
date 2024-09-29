@@ -80,9 +80,8 @@ For my first semester exam at Noroff, I developed an interactive science museum 
 - CSS
 - Figma
 
-**Hosted On:**  
-**Website Deployed Via:**  
-[Netlify](https://communitysciencemuseum-mohammedabi.netlify.app/)
+**Hosted On Netlify:**
+[Community Science Museum](https://communitysciencemuseum-mohammedabi.netlify.app/)
 
 **Figma High Fidelity Wireframe:**
 - [Desktop](https://www.figma.com/proto/OQF3jFgE811hR1zW0uhy6x/Community-Science-Museum?page-id=0%3A1&type=design&node-id=2-94&viewport=1725%2C14656%2C0.42&t=oMqF9FrOYIAJ3zI3-1&scaling=scale-down&starting-point-node-id=2%3A94)
