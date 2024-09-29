@@ -15,6 +15,10 @@ As a nearly graduated frontend developer pursuing a Higher Professional Degree, 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## 📜 Certifications
+- **Learning the JavaScript Language**
+  - Course completed by Mohammed Abdul Abi on March 7, 2024
+  - Duration: 4 hours 2 minutes
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=MohammedAbi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
