@@ -30,6 +30,10 @@ Let’s connect to discuss how I can grow and contribute to your organization wh
 - **LinkedIn:** [Mohammed Abdul Abi](https://www.linkedin.com/in/mohammedabdulabi/)
 - **Email:** [mohammedabdulabi@gmail.com](mailto:mohammedabdulabi@gmail.com)
 
+## 🌐 My Projects on Netlify
+[Netlify Dashboard](https://app.netlify.com/teams/mohammedabi/sites)
+
+
 ## 📜 Certifications
 - **Learning the JavaScript Language**
   - Course completed by Mohammed Abdul Abi on March 7, 2024
