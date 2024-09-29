@@ -16,10 +16,6 @@ I am excited about the opportunity to learn from experienced teams and contribut
 Let’s connect to discuss how I can grow and contribute to your organization while pursuing my passion for frontend development!
 
 
-## 📫 Contact Information
-- **LinkedIn:** [Mohammed Abdul Abi](https://www.linkedin.com/in/mohammedabdulabi/)
-- **Email:** [mohammedabdulabi@gmail.com](mailto:mohammedabdulabi@gmail.com)
-
 ## 🛠️ Languages & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -29,6 +25,10 @@ Let’s connect to discuss how I can grow and contribute to your organization wh
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## 📫 Contact Information
+- **LinkedIn:** [Mohammed Abdul Abi](https://www.linkedin.com/in/mohammedabdulabi/)
+- **Email:** [mohammedabdulabi@gmail.com](mailto:mohammedabdulabi@gmail.com)
 
 ## 📜 Certifications
 - **Learning the JavaScript Language**
