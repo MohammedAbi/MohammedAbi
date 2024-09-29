@@ -17,7 +17,7 @@ This project focuses on creating an interactive online store that displays produ
 - Add and remove items from the basket
 - Checkout process with order confirmation
 
-**Hosted On:**  
+**Hosted On netlify:**  
 [JavaScript Course Assignment](https://js-1-course-assignment-mohammedabi.netlify.app/)
 
 ---
@@ -52,7 +52,7 @@ This Todo application assists users in managing tasks based on their flow state 
 **Theory:**  
 Based on Mihaly Csikszentmihalyi's flow theory, tasks are matched to users' skill levels and mental states to enhance productivity.
 
-**Hosted On:**  
+**Hosted On netlify:**  
 [Flow State Todo App](https://flow-state-todo-app.netlify.app/)
 
 ---
