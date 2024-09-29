@@ -1,5 +1,20 @@
 # 💫 About Me
-As a nearly graduated frontend developer pursuing a Higher Professional Degree, I am enthusiastic about translating creative concepts into user-friendly web interfaces. My education has equipped me with essential skills in design processes, interaction design, and programming. Eager to apply my creative design principles, HTML/CSS proficiency, and foundational knowledge of JavaScript to contribute to innovative projects and enhance user experiences.
+Hello!
+
+I’m Mohammed Abdul Abi, a frontend developer nearly graduating with a Higher Professional Degree in Front-End Development from NorOff Education AS.
+
+I hold a Master’s degree in Synthetic Organic Chemistry from the Norwegian University of Life Sciences in Ås, where I specialized in natural product synthesis.
+
+My scientific background has sharpened my analytical thinking and problem-solving skills.
+
+After completing my master's, I discovered my passion for frontend development.
+
+Over the past two years, I have immersed myself in web design and programming, gradually building a solid foundation in HTML, CSS, and JavaScript.
+
+I am excited about the opportunity to learn from experienced teams and contribute to creating user-friendly web interfaces.
+
+Let’s connect to discuss how I can grow and contribute to your organization while pursuing my passion for frontend development!
+
 
 ## 📫 Contact Information
 - **LinkedIn:** [Mohammed Abdul Abi](https://www.linkedin.com/in/mohammedabdulabi/)
