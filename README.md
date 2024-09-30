@@ -1,7 +1,7 @@
 ## 🌟 Projects
 
 ## 🌐 My Netlify Projects Showcase
- - [Netlify Dashboard](https://app.netlify.com/teams/mohammedabi/sites)
+- [Explore My Netlify Projects](https://app.netlify.com/teams/mohammedabi/sites)
 
 ### JavaScript 1 - Course Assignment
 **Description:**  
