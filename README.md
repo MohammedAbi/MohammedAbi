@@ -1,8 +1,9 @@
-## 🌟 Projects
-
 ## 🌐 My Netlify Projects Showcase
 - [Explore My Netlify Projects](https://app.netlify.com/teams/mohammedabi/sites)
 
+
+
+## 🌟 Projects
 ### JavaScript 1 - Course Assignment
 **Description:**  
 This project focuses on creating an interactive online store that displays products fetched from an API. The initial phase involved designing the layout using HTML and CSS, followed by adding interactivity with JavaScript.
