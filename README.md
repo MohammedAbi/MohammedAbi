@@ -21,6 +21,9 @@ This project focuses on creating an interactive online store that displays produ
 **Hosted On netlify:**  
 [JavaScript Course Assignment](https://js-1-course-assignment-mohammedabi.netlify.app/)
 
+**Hosted On netlify:**  
+[GitHub repo](https://github.com/MohammedAbi/javaScript-1-Course-Assignment-Mohammed-Abi)
+
 ---
 
 ### Community Science Museum
