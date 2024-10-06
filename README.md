@@ -59,6 +59,22 @@ For my first semester exam at Noroff, I developed an interactive science museum 
 [Kanban Board](https://github.com/users/MohammedAbi/projects/2/views/2)
 
 ---
+### FED1 Project Exam 1
+
+![Echopost](https://github.com/user-attachments/assets/00c7cc86-481d-4bde-924c-594e5bc66027)
+This image showcases the homepage of the EchoPost website,
+
+**Description:**  
+EchoPost is a responsive web application designed for managing blog posts. It serves as the front-end user interface for an existing API blogging application, allowing users to view dynamic blog posts and providing admin functionalities for managing content. The project is developed using only HTML, CSS, and JavaScript, demonstrating proficiency in core web technologies.
+
+**Hosted On Netlify:**
+[echopost](https://echopost.netlify.app/)
+
+****GitHub Repository:**
+[FED1-PE1-MohammedAbi]([https://github.com/MohammedAbi/Semester-Project-1](https://github.com/NoroffFEU/FED1-PE1-MohammedAbi?tab=readme-ov-file))
+
+
+---
 
 ### Flow State Todo App
 **Description:**  
