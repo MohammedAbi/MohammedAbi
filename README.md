@@ -6,7 +6,7 @@
 ## 🌟 Projects
 ### JavaScript 1 - Course Assignment
 
-![image](./info/assets/images/website.png)
+![Uploading website.png…]()
 This image showcases the product display, featuring images, descriptions, and pricing.
 
 **Description:**  
