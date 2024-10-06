@@ -5,6 +5,10 @@
 
 ## 🌟 Projects
 ### JavaScript 1 - Course Assignment
+
+![image](./info/assets/images/website.png)
+This image showcases the product display, featuring images, descriptions, and pricing.
+
 **Description:**  
 This project focuses on creating an interactive online store that displays products fetched from an API. The initial phase involved designing the layout using HTML and CSS, followed by adding interactivity with JavaScript.
 
