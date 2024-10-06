@@ -34,6 +34,9 @@ For my first semester exam at Noroff, I developed an interactive science museum 
 **Hosted On Netlify:**
 [Community Science Museum](https://communitysciencemuseum-mohammedabi.netlify.app/)
 
+**GitHub repo:**
+[Community Science Museum](https://github.com/MohammedAbi/javaScript-1-Course-Assignment-Mohammed-Abi)
+
 **Figma High Fidelity Wireframe:**
 - [Desktop](https://www.figma.com/proto/OQF3jFgE811hR1zW0uhy6x/Community-Science-Museum?page-id=0%3A1&type=design&node-id=2-94&viewport=1725%2C14656%2C0.42&t=oMqF9FrOYIAJ3zI3-1&scaling=scale-down&starting-point-node-id=2%3A94)
 - [Mobile](https://www.figma.com/proto/OQF3jFgE811hR1zW0uhy6x/Community-Science-Museum?page-id=0%3A1&type=design&node-id=315-1371&viewport=1379%2C8651%2C0.25&t=Zb7hnyxFdP4wLuC1-1&scaling=scale-down&starting-point-node-id=315%3A1371&show-proto-sidebar=1) 
