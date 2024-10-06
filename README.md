@@ -71,7 +71,7 @@ EchoPost is a responsive web application designed for managing blog posts. It se
 [echopost](https://echopost.netlify.app/)
 
 ****GitHub Repository:**
-[FED1-PE1-MohammedAbi]([https://github.com/MohammedAbi/Semester-Project-1](https://github.com/NoroffFEU/FED1-PE1-MohammedAbi?tab=readme-ov-file))
+[FED1-PE1-MohammedAbi](https://github.com/NoroffFEU/FED1-PE1-MohammedAbi?tab=readme-ov-file)
 
 
 ---
