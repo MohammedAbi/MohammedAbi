@@ -21,12 +21,16 @@ This project focuses on creating an interactive online store that displays produ
 **Hosted On netlify:**  
 [JavaScript Course Assignment](https://js-1-course-assignment-mohammedabi.netlify.app/)
 
-**Hosted On netlify:**  
+**GitHub Repository:**  
 [GitHub repo](https://github.com/MohammedAbi/javaScript-1-Course-Assignment-Mohammed-Abi)
 
 ---
 
 ### Community Science Museum
+
+![communitysciencemuseum](https://github.com/user-attachments/assets/dbd984a3-b314-4814-8b80-a689dd74e2cc)
+This image showcases the homepage of the Community Science Museum.
+
 **Description:**  
 For my first semester exam at Noroff, I developed an interactive science museum website aimed at children aged 7-15 and their families. This project combined project planning, web design, and development within a set timeframe.
 
@@ -41,8 +45,8 @@ For my first semester exam at Noroff, I developed an interactive science museum 
 **Hosted On Netlify:**
 [Community Science Museum](https://communitysciencemuseum-mohammedabi.netlify.app/)
 
-**GitHub repo:**
-[Community Science Museum](https://github.com/MohammedAbi/javaScript-1-Course-Assignment-Mohammed-Abi)
+****GitHub Repository:**
+[Community Science Museum](https://github.com/MohammedAbi/Semester-Project-1)
 
 **Figma High Fidelity Wireframe:**
 - [Desktop](https://www.figma.com/proto/OQF3jFgE811hR1zW0uhy6x/Community-Science-Museum?page-id=0%3A1&type=design&node-id=2-94&viewport=1725%2C14656%2C0.42&t=oMqF9FrOYIAJ3zI3-1&scaling=scale-down&starting-point-node-id=2%3A94)
