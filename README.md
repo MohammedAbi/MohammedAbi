@@ -6,7 +6,7 @@
 ## 🌟 Projects
 ### JavaScript 1 - Course Assignment
 
-![Uploading website.png…]()
+![website](https://github.com/user-attachments/assets/88dca136-434f-4cfa-918c-61fefeaef55e)
 This image showcases the product display, featuring images, descriptions, and pricing.
 
 **Description:**  
