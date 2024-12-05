@@ -1,3 +1,20 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed Abi
+====================================================================================================================================
+
+Frontend Developer
+------------------
+
+I'm Mohammed Abdul Abi, a soon-to-be graduate with a Higher Professional Degree in Front-End Development from NorOff Education AS. I also hold a Master’s in Synthetic Organic Chemistry from the Norwegian University of Life Sciences, where I developed strong analytical and problem-solving skills. After working as a chemist, I found my true passion in web development. For the past 2-3 years, I’ve been learning and practicing HTML, CSS, and JavaScript, and I’m eager to keep improving and learning more. I’d love the opportunity to connect and discuss how I can contribute to your team while continuing to grow as a front-end developer.
+
+* 🌍  I'm based in Norway Oslo
+* 🖥️  See my portfolio at [https://app.netlify.com/teams/mohammedabi/sites](http://app.netlify.com/teams/mohammedabi/sites)
+* ✉️  You can contact me at [mohammedabdulabi@gmail.com](mailto:mohammedabdulabi@gmail.com)
+* 🚀  I'm currently working on [Completing all the projects in my front-end development education, while also working on some personal side projects to further enhance my skills and creativity.](http://app.netlify.com/teams/mohammedabi/sites)
+* 🧠  I'm learning advanced JavaScript, modern frameworks, and improving responsive design, accessibility, and performance optimization for user-friendly web applications.
+* 🤝  I'm open to collaborating on Here’s a shorter version: I’m open to collaborating on front-end projects involving API integration, database interaction, and dynamic, data-driven web applications that enhance user experiences through seamless front-end and back-end communication.
+* ⚡  I left a well-paying career in chemistry to pursue my passion for front-end development. I’m committed to learning and growing in this field, and I hope to work with companies that value dedication and passion while allowing me to contribute and evolve as a developer.
+
+
 ## 🌐 My Netlify Projects Showcase
 - [Explore My Netlify Projects](https://app.netlify.com/teams/mohammedabi/sites)
 
@@ -92,24 +109,6 @@ Based on Mihaly Csikszentmihalyi's flow theory, tasks are matched to users' skil
 **Hosted On netlify:**  
 [Flow State Todo App](https://flow-state-todo-app.netlify.app/)
 
-
-
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed Abi
-====================================================================================================================================
-
-Frontend Developer
-------------------
-
-I'm Mohammed Abdul Abi, a soon-to-be graduate with a Higher Professional Degree in Front-End Development from NorOff Education AS. I also hold a Master’s in Synthetic Organic Chemistry from the Norwegian University of Life Sciences, where I developed strong analytical and problem-solving skills. After working as a chemist, I found my true passion in web development. For the past 2-3 years, I’ve been learning and practicing HTML, CSS, and JavaScript, and I’m eager to keep improving and learning more. I’d love the opportunity to connect and discuss how I can contribute to your team while continuing to grow as a front-end developer.
-
-* 🌍  I'm based in Norway Oslo
-* 🖥️  See my portfolio at [https://app.netlify.com/teams/mohammedabi/sites](http://app.netlify.com/teams/mohammedabi/sites)
-* ✉️  You can contact me at [mohammedabdulabi@gmail.com](mailto:mohammedabdulabi@gmail.com)
-* 🚀  I'm currently working on [Completing all the projects in my front-end development education, while also working on some personal side projects to further enhance my skills and creativity.](http://app.netlify.com/teams/mohammedabi/sites)
-* 🧠  I'm learning advanced JavaScript, modern frameworks, and improving responsive design, accessibility, and performance optimization for user-friendly web applications.
-* 🤝  I'm open to collaborating on Here’s a shorter version: I’m open to collaborating on front-end projects involving API integration, database interaction, and dynamic, data-driven web applications that enhance user experiences through seamless front-end and back-end communication.
-* ⚡  I left a well-paying career in chemistry to pursue my passion for front-end development. I’m committed to learning and growing in this field, and I hope to work with companies that value dedication and passion while allowing me to contribute and evolve as a developer.
 
 ### Skills
 
