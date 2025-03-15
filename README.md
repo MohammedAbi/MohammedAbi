@@ -39,7 +39,7 @@ This is a weather app built using **React** and **Tailwind CSS**. The app fetche
 - Search functionality to check the weather of any location.
 
 **Hosted On netlify:**
-- [Weather-app-react-tailwind](https://weather-app-react-tailwind-es6.netlify.app)
+[Weather-app-react-tailwind](https://weather-app-react-tailwind-es6.netlify.app)
 
 **GitHub Repository:**  
 [GitHub repo](https://github.com/MohammedAbi/Weather-app-react-tailwind?tab=readme-ov-file)
