@@ -38,9 +38,11 @@ This is a weather app built using **React** and **Tailwind CSS**. The app fetche
 - Responsive design that works on both desktop and mobile devices.
 - Search functionality to check the weather of any location.
 
-## Hosted On netlify:
-- [Website deployed via Netlify](https://weather-app-react-tailwind-es6.netlify.app/)
+**Hosted On netlify:**
+- [Weather-app-react-tailwind](https://weather-app-react-tailwind-es6.netlify.app
 
+**GitHub Repository:**  
+[GitHub repo]([https://github.com/MohammedAbi/javaScript-1-Course-Assignment-Mohammed-Abi](https://github.com/MohammedAbi/Weather-app-react-tailwind?tab=readme-ov-file))
 
 ### JavaScript 1 - Course Assignment
 
