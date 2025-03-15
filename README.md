@@ -21,6 +21,27 @@ I'm Mohammed Abdul Abi, a soon-to-be graduate with a Higher Professional Degree 
 
 
 ## 🌟 Projects
+# Weather App - React & Tailwind CSS
+
+<img width="899" alt="Image" src="https://github.com/user-attachments/assets/0ebdbe60-0dba-4bda-94ff-2ca3bd17d43e" />
+
+This image showcases the user interface of the weather application, providing real-time weather updates and forecasts.
+
+## Overview
+
+This is a weather app built using **React** and **Tailwind CSS**. The app fetches real-time weather data and a 4-day forecast from the OpenWeatherMap API.
+
+## Features
+
+- Display current weather and forecast for the next 4 days.
+- Built with **React** and styled using **Tailwind CSS**.
+- Responsive design that works on both desktop and mobile devices.
+- Search functionality to check the weather of any location.
+
+## Hosted On netlify:
+- [Website deployed via Netlify](https://weather-app-react-tailwind-es6.netlify.app/)
+
+
 ### JavaScript 1 - Course Assignment
 
 ![website](https://github.com/user-attachments/assets/88dca136-434f-4cfa-918c-61fefeaef55e)
