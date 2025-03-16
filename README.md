@@ -45,6 +45,46 @@ This is a weather app built using **React** and **Tailwind CSS**. The app fetche
 [GitHub repo](https://github.com/MohammedAbi/Weather-app-react-tailwind?tab=readme-ov-file)
 
 
+# Social Media Application
+
+<img width="1510" alt="Image" src="https://github.com/user-attachments/assets/42b07412-fd29-4f95-930a-db4d390dd7ee" />
+**This image showcases the client-side social media application.**
+
+This project is a client-side social media application developed as part of the **JavaScript 2** course assignment and later enhanced during the **CSS Frameworks** course assignment. It implements core CRUD (Create, Read, Update, Delete) functionalities for posts and includes a user authentication system. The application is styled using **Tailwind CSS** and built with modern web development tools like **Vite** and **Vitest**. While essential features are implemented, additional functionalities are planned for future contributors.
+
+---
+
+## Features Implemented
+
+### User Management
+
+- **Register New User**: Allows users to create accounts.
+- **Login User**: Authenticates users and provides access to protected features.
+
+### Posts
+
+- **Create Post**: Users can create new posts with a title, body, tags, and media attachments.
+- **Read Posts**:
+  - View all posts.
+  - View a single post by ID.
+  - View posts by specific users.
+- **Update Post**: Edit existing posts (title, body, tags, and media).
+- **Delete Post**: Remove a post from the system.
+- **React to Posts**: Add emoji reactions (e.g., likes, dislikes) to posts.
+- **Search Posts**: Search functionality for posts by keywords or tags.
+- **Sort Posts**: Sorting functionality for posts by "Sort by Latest" or "Sort by Popularity".
+
+**Hosted On Netlify:**
+[SMA](https://sma-social-media-application2.netlify.app/)
+
+****GitHub Repository:**
+[Social Media Application](https://github.com/MohammedAbi/css-framework)
+---
+
+
+
+
+
 
 ### FED1 Project Exam 1
 
