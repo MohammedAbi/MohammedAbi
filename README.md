@@ -75,15 +75,13 @@ This project is a client-side social media application developed as part of the 
 - **Sort Posts**: Sorting functionality for posts by "Sort by Latest" or "Sort by Popularity".
 
 **Hosted On Netlify:**
-[SMA](https://sma-social-media-application2.netlify.app/)
+[Social Media Application](https://sma-social-media-application2.netlify.app/)
 
-****GitHub Repository:**
+**GitHub Repository:**
 [Social Media Application](https://github.com/MohammedAbi/css-framework)
+
+
 ---
-
-
-
-
 
 
 ### FED1 Project Exam 1
@@ -97,7 +95,7 @@ EchoPost is a responsive web application designed for managing blog posts. It se
 **Hosted On Netlify:**
 [echopost](https://echopost.netlify.app/)
 
-****GitHub Repository:**
+**GitHub Repository:**
 [FED1-PE1-MohammedAbi](https://github.com/NoroffFEU/FED1-PE1-MohammedAbi?tab=readme-ov-file)
 
 
