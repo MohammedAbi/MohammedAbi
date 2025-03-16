@@ -75,7 +75,7 @@ This project is a client-side social media application developed as part of the 
 - **Sort Posts**: Sorting functionality for posts by "Sort by Latest" or "Sort by Popularity".
 
 **Hosted On Netlify:**
-[Social Media Application](https://sma-social-media-application2.netlify.app/)
+[Social Media Application](https://sma-social-media-application-2.netlify.app/)
 
 **GitHub Repository:**
 [Social Media Application](https://github.com/MohammedAbi/css-framework)
