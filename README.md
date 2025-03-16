@@ -44,6 +44,41 @@ This is a weather app built using **React** and **Tailwind CSS**. The app fetche
 **GitHub Repository:**  
 [GitHub repo](https://github.com/MohammedAbi/Weather-app-react-tailwind?tab=readme-ov-file)
 
+
+
+### FED1 Project Exam 1
+
+![Echopost](https://github.com/user-attachments/assets/00c7cc86-481d-4bde-924c-594e5bc66027)
+This image showcases the homepage of the EchoPost website,
+
+**Description:**  
+EchoPost is a responsive web application designed for managing blog posts. It serves as the front-end user interface for an existing API blogging application, allowing users to view dynamic blog posts and providing admin functionalities for managing content. The project is developed using only HTML, CSS, and JavaScript, demonstrating proficiency in core web technologies.
+
+**Hosted On Netlify:**
+[echopost](https://echopost.netlify.app/)
+
+****GitHub Repository:**
+[FED1-PE1-MohammedAbi](https://github.com/NoroffFEU/FED1-PE1-MohammedAbi?tab=readme-ov-file)
+
+
+---
+
+### Flow State Todo App
+**Description:**  
+This Todo application assists users in managing tasks based on their flow state and task difficulty, categorizing them into Green (Easy), Orange (Moderate), and Red (Hard). Tasks are displayed according to optimal time slots for maximum productivity.
+
+**Features:**
+- Add, edit, and delete tasks
+- Categorization by difficulty
+- Progress tracking with a completion rate
+- Responsive design
+
+**Theory:**  
+Based on Mihaly Csikszentmihalyi's flow theory, tasks are matched to users' skill levels and mental states to enhance productivity.
+
+**Hosted On netlify:**  
+[Flow State Todo App](https://flow-state-todo-app.netlify.app/)
+
 ### JavaScript 1 - Course Assignment
 
 ![website](https://github.com/user-attachments/assets/88dca136-434f-4cfa-918c-61fefeaef55e)
@@ -99,38 +134,6 @@ For my first semester exam at Noroff, I developed an interactive science museum 
 [Kanban Board](https://github.com/users/MohammedAbi/projects/2/views/2)
 
 ---
-### FED1 Project Exam 1
-
-![Echopost](https://github.com/user-attachments/assets/00c7cc86-481d-4bde-924c-594e5bc66027)
-This image showcases the homepage of the EchoPost website,
-
-**Description:**  
-EchoPost is a responsive web application designed for managing blog posts. It serves as the front-end user interface for an existing API blogging application, allowing users to view dynamic blog posts and providing admin functionalities for managing content. The project is developed using only HTML, CSS, and JavaScript, demonstrating proficiency in core web technologies.
-
-**Hosted On Netlify:**
-[echopost](https://echopost.netlify.app/)
-
-****GitHub Repository:**
-[FED1-PE1-MohammedAbi](https://github.com/NoroffFEU/FED1-PE1-MohammedAbi?tab=readme-ov-file)
-
-
----
-
-### Flow State Todo App
-**Description:**  
-This Todo application assists users in managing tasks based on their flow state and task difficulty, categorizing them into Green (Easy), Orange (Moderate), and Red (Hard). Tasks are displayed according to optimal time slots for maximum productivity.
-
-**Features:**
-- Add, edit, and delete tasks
-- Categorization by difficulty
-- Progress tracking with a completion rate
-- Responsive design
-
-**Theory:**  
-Based on Mihaly Csikszentmihalyi's flow theory, tasks are matched to users' skill levels and mental states to enhance productivity.
-
-**Hosted On netlify:**  
-[Flow State Todo App](https://flow-state-todo-app.netlify.app/)
 
 
 ### Skills
