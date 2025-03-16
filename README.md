@@ -156,23 +156,22 @@ EchoPost is a responsive web application designed for managing blog posts. It se
 
 ---
 
-### Flow State Todo App
-**Description:**  
-This Todo application assists users in managing tasks based on their flow state and task difficulty, categorizing them into Green (Easy), Orange (Moderate), and Red (Hard). Tasks are displayed according to optimal time slots for maximum productivity.
+# Flow State Todo App
 
-**Features:**
-- Add, edit, and delete tasks
-- Categorization by difficulty
-- Progress tracking with a completion rate
-- Responsive design
+<img width="1509" alt="Image" src="https://github.com/user-attachments/assets/0cce456e-6612-4be2-996b-c90fccd1095b" />
+This image showcases the Flow State Todo App!
 
-**Theory:**  
-Based on Mihaly Csikszentmihalyi's flow theory, tasks are matched to users' skill levels and mental states to enhance productivity.
+
+This is a Todo application designed to help users manage tasks based on their current flow state and the difficulty of the tasks. The app categorizes tasks into three levels: Green (Easy), Orange (Moderate), and Red (Hard). Tasks are displayed and interacted with based on the user's optimal times for different levels of difficulty.
+
 
 **Hosted On netlify:**  
 [Flow State Todo App](https://flow-state-todo-app.netlify.app/)
+
+
 **GitHub Repository:**
 [Flow State Todo App](https://github.com/MohammedAbi/Flow-State-Todo-App)
+
 
 
 ### JavaScript 1 - Course Assignment
