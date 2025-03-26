@@ -213,6 +213,23 @@ This image showcases the homepage of the EchoPost website,
 **Description:**  
 EchoPost is a responsive web application designed for managing blog posts. It serves as the front-end user interface for an existing API blogging application, allowing users to view dynamic blog posts and providing admin functionalities for managing content. The project is developed using only HTML, CSS, and JavaScript, demonstrating proficiency in core web technologies.
 
+## Grade & Feedback from instructor
+Grade: 100/100
+
+Style guide - Outstanding 5 / 5 File is carefully considered and executed. Acceptable at a professional establishment.
+
+Design file - Outstanding 5 / 5 File is carefully considered and executed. Acceptable at a professional establishment.
+
+Planning Documents - Outstanding 5 / 5 Project has been meticulously planned, including a roadmap view.
+
+User Stories - Outstanding 5 / 5 All user stories are completed to a hight standard.
+
+User Experience - Outstanding 5 / 5 Every effort has been made to cater to the user experience, including sensible validation, error handling and user feedback..
+
+Best Practice - Outstanding 5 / 5 HTML, JS and CSS best practices have been widely observed.
+
+Feedback from instructor: Congratulations, you have passed you Project Exam 1!
+
 **Hosted On Netlify:**
 [echopost](https://echopost.netlify.app/)
 
