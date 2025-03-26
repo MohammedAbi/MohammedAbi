@@ -214,7 +214,7 @@ This image showcases the homepage of the EchoPost website,
 EchoPost is a responsive web application designed for managing blog posts. It serves as the front-end user interface for an existing API blogging application, allowing users to view dynamic blog posts and providing admin functionalities for managing content. The project is developed using only HTML, CSS, and JavaScript, demonstrating proficiency in core web technologies.
 
 ## Grade & Feedback from instructor
-Grade: 100/100
+Grade: A (100/100)
 
 Style guide - Outstanding 5 / 5 File is carefully considered and executed. Acceptable at a professional establishment.
 
