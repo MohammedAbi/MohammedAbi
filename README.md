@@ -288,7 +288,7 @@ This image showcases the homepage of the Community Science Museum.
 For my first semester exam at Noroff, I developed an interactive science museum website aimed at children aged 7-15 and their families. This project combined project planning, web design, and development within a set timeframe.
 
 **Grade:**  
-92/100
+B (92/100)
 
 **Built With:**
 - HTML
