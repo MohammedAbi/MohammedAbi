@@ -19,6 +19,72 @@ I'm Mohammed Abdul Abi, a soon-to-be graduate with a Higher Professional Degree 
 - [Explore My Netlify Projects](https://app.netlify.com/teams/mohammedabi/sites)
 
 
+# Semester Project 2: Auction Website
+
+## Product Showcase
+
+![Image](https://github.com/user-attachments/assets/ac151289-57e3-4644-b4ee-0c998afe3e39)
+This image provides a glimpse of the auction website's user interface, showcasing how users can interact with the platform, browse listings, and place bids. The design follows modern web standards with a clean, user-friendly layout using TailwindCSS, offering a seamless experience for both mobile and desktop users.
+
+## Description
+
+This project is a front-end application for an auction website where users can list and bid on items. It interfaces with an existing API to manage auction data, such as creating listings, placing bids, and managing user profiles.
+
+## Features
+
+- **User Registration & Login**: Registered users can sign in and manage their profile.
+- **Item Listings**: Users can create listings with titles, descriptions, media, and deadlines.
+- **Bidding**: Registered users can place bids on items listed by others.
+- **User Profile**: Registered users can update their avatar and view their total credits.
+- **Search Bar**: Users can search for listings efficiently.
+
+## Technologies Used
+
+- React
+- Vite (build tool)
+- TailwindCSS (CSS framework)
+- ESLint (for linting)
+- PostCSS (CSS processing)
+- React Router DOM (for routing)
+
+
+## Test User
+
+For testing purposes, you can use the following credentials for email and password:
+
+Email:
+
+```bash
+student27006@stud.noroff.no
+```
+
+Password:
+
+```bash
+student27006
+```
+
+## Feedback & Grading
+
+### Grade: **B**
+
+### Teacher's Feedback:
+Dear Mohammed,
+
+I acknowledge your Semester Project 2 work. Getting through this assignment shows real dedication.
+
+Brilliant achievement in your Semester Project 2 assignment! Your work satisfied most criteria flawlessly. Keep up this standard!
+
+
+
+## Links
+
+- **Hosted On Netlify**: [View Live website](https://semester-project-2-auction.netlify.app/)
+- **GitHub Repository**: [View Repo](https://github.com/MohammedAbi/Semester-Project-2-auction/tree/main)
+
+
+
+
 # Currency Converter App
 
 <img width="1508" alt="Image" src="https://github.com/user-attachments/assets/3a076b34-689c-4c7c-8b81-228bc24157a8" />
