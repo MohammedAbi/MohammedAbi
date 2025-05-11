@@ -19,6 +19,57 @@ I'm Mohammed Abdul Abi, a soon-to-be graduate with a Higher Professional Degree 
 - [Explore My Netlify Projects](https://app.netlify.com/teams/mohammedabi/sites)
 
 
+# JavaScript Frameworks: VivaTrend Store
+
+## Product Showcase
+
+![VivaTrend UI](https://github.com/user-attachments/assets/d314bff8-afa1-4f87-a058-5255a3b36080)
+
+This image gives a glimpse into the VivaTrend fashion store's user interface, featuring a modern, minimal, and mobile-first design. The application leverages Tailwind CSS for responsiveness and clean layouts, providing an optimal shopping experience on all devices.
+
+## Description
+
+VivaTrend is a front-end e-commerce application where users can browse fashion products, view details, add items to a cart, and complete checkout. Users can also register, log in, and access a personalized profile. The app integrates with Noroff’s public API to fetch products and handle authentication.
+
+## Features
+
+- **User Registration & Login**: Authenticated user experience using Noroff API
+- **Product Listings**: Browse a grid of products with filtering and search
+- **Product Detail Page**: View product info, select color and size, and add to cart
+- **Cart Page**: Update quantities, remove items, and view totals
+- **Checkout Success Page**: Displays confirmation after completing purchase
+- **User Profile**: View personal information and manage session
+- **Search & Filter**: Find products by title or category
+- **Contact Form**: Fully validated form for user communication
+- **Toast Notifications**: Alerts for actions like login, add to cart, and logout
+- **Responsive Design**: Built with Tailwind CSS and mobile-first principles
+
+## Technologies Used
+
+- React 18
+- Vite
+- TypeScript
+- Tailwind CSS
+- React Router DOM
+- React Toastify
+- Swiper.js
+- Vitest
+- React Testing Library
+
+## Test User
+
+For demonstration purposes, you can use the following credentials:
+
+- **Email**: `bulibuli@stud.noroff.no`
+- **Password**: `bulibuli`
+
+## Links
+
+- **Live Website**: [https://vivatrend-store.netlify.app](https://vivatrend-store.netlify.app)
+- **GitHub Repository**: [https://github.com/MohammedAbi/vivatrend-store](https://github.com/MohammedAbi/vivatrend-store)
+
+
+
 # Semester Project 2: Auction Website
 
 ## Product Showcase
