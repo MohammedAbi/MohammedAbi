@@ -6,9 +6,11 @@ Frontend Developer
 
 I'm Mohammed Abdul Abi, a soon-to-be graduate with a Higher Professional Degree in Front-End Development from NorOff Education AS. I also hold a Master’s in Synthetic Organic Chemistry from the Norwegian University of Life Sciences, where I developed strong analytical and problem-solving skills. After working as a chemist, I found my true passion in web development. For the past 2-3 years, I’ve been learning and practicing HTML, CSS, and JavaScript, and I’m eager to keep improving and learning more. I’d love the opportunity to connect and discuss how I can contribute to your team while continuing to grow as a front-end developer.
 
-* 🌍  I'm based in Norway Stavanger
-* 🖥️  See my portfolio at [https://app.netlify.com/teams/mohammedabi/sites](http://app.netlify.com/teams/mohammedabi/sites)
-* ✉️  You can contact me at [mohammedabdulabi@gmail.com](mailto:mohammedabdulabi@gmail.com)
+* 🌍 Based in Stavanger, Norway  
+🖥️ View my portfolio: https://app.netlify.com/teams/mohammedabi/sites  
+💼 Explore all my projects: https://mohammedabi.github.io/mohammed-abi-portfolio/  
+✉️ Contact me: mohammedabdulabi@gmail.com
+
 * 🚀  I'm currently working on [Completing all the projects in my front-end development education, while also working on some personal side projects to further enhance my skills and creativity.](http://app.netlify.com/teams/mohammedabi/sites)
 * 🧠  I'm learning advanced JavaScript, modern frameworks, and improving responsive design, accessibility, and performance optimization for user-friendly web applications.
 * 🤝  I'm open to collaborating on Here’s a shorter version: I’m open to collaborating on front-end projects involving API integration, database interaction, and dynamic, data-driven web applications that enhance user experiences through seamless front-end and back-end communication.
