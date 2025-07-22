@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm Mohammed Abdul Abi, a soon-to-be graduate with a Higher Professional Degree in Front-End Development from NorOff Education AS. I also hold a Master’s in Synthetic Organic Chemistry from the Norwegian University of Life Sciences, where I developed strong analytical and problem-solving skills. After working as a chemist, I found my true passion in web development. For the past 2-3 years, I’ve been learning and practicing HTML, CSS, and JavaScript, and I’m eager to keep improving and learning more. I’d love the opportunity to connect and discuss how I can contribute to your team while continuing to grow as a front-end developer.
+I'm Mohammed Abdul Abi, graduate with a Higher Professional Degree in Front-End Development from NorOff Education AS. I also hold a Master’s in Synthetic Organic Chemistry from the Norwegian University of Life Sciences, where I developed strong analytical and problem-solving skills. After working as a chemist, I found my true passion in web development. For the past 2-3 years, I’ve been learning and practicing HTML, CSS, and JavaScript, and I’m eager to keep improving and learning more. I’d love the opportunity to connect and discuss how I can contribute to your team while continuing to grow as a front-end developer.
 
 * 🌍 Based in Stavanger, Norway  
 🖥️ View my portfolio: https://app.netlify.com/teams/mohammedabi/sites  
