@@ -46,11 +46,6 @@ I contributed as a **Developer**, focusing on implementing new features, collabo
 
 - **GitHub Repository**: [https://github.com/MohammedAbi/agency-2-reflection)
 
-## 📸 Screenshots
-
-![Impact Section](./pr1180.png)
-![Reusable Button](./pr1219.png)
-
 
 
 # JavaScript Frameworks: VivaTrend Store
