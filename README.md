@@ -21,6 +21,38 @@ I'm Mohammed Abdul Abi, graduated with a Higher Professional Degree in Front-End
 - [Explore My Netlify Projects](https://app.netlify.com/teams/mohammedabi/sites)
 
 
+# Agency 2 – MMF Project (Noroff FED2-24)
+
+## 📌 Overview
+
+This project was part of the **Agency 2 course assignment (FM2AJA205)**, where we worked in a Scrum team of 8 students to build the MMF platform.  
+I contributed as a **Developer**, focusing on implementing new features, collaborating with designers & QA, and following Agile practices.
+
+## 🚀 My Role & Contributions
+
+- Implemented **Impact of Contributions Section** for displaying project impact.
+- Added a **Reusable SubmitButton** component with async loading and success states.
+- Wrote maintainable, modular code using React and API services.
+- Worked closely with QA to fix bugs and ensure smooth delivery.
+- Participated in sprint planning, daily standups, and retrospectives.
+
+## 🏆 Grading & Instructor Feedback
+
+✅ **Graded: Passed**
+
+> “Code is good but shows minor inconsistencies. Completes assigned features on time with full functionality, and works closely with designers and QA to ensure high-quality implementation… Demonstrates highly innovative approaches to solving project challenges.”
+
+## 🔗 Links
+
+- **GitHub Repository**: [https://github.com/MohammedAbi/agency-2-reflection)
+
+## 📸 Screenshots
+
+![Impact Section](./pr1180.png)
+![Reusable Button](./pr1219.png)
+
+
+
 # JavaScript Frameworks: VivaTrend Store
 
 ## Product Showcase
