@@ -59,13 +59,6 @@ I'm Mohammed Abdul Abi, graduated with a Higher Professional Degree in Front-End
 
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 10px;">
 
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/MohammedAbi">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=MohammedAbi&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" 
-      alt="MohammedAbi's GitHub stats" 
-    />
-  </a>
 
   <!-- GitHub Streak Stats Card -->
   <a href="https://github.com/MohammedAbi">
@@ -74,11 +67,12 @@ I'm Mohammed Abdul Abi, graduated with a Higher Professional Degree in Front-End
       alt="MohammedAbi's GitHub streak stats" 
     />
   </a>
+  
 
   <!-- Top Languages Card -->
-  <a href="https://github.com/MohammedAbi">
+  <a href="https://github.com/mohammedabi">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAbi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedabi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" 
       alt="Top Languages" 
     />
   </a>
