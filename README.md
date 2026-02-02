@@ -65,8 +65,7 @@ I'm Mohammed Abdul Abi, graduated with a Higher Professional Degree in Front-End
 
 ## 📊 GitHub Stats & Badges
 
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 100px;">
-<!-- GitHub Stats Card -->
+<!-- GitHub Stats Card (full width) -->
 <a href="https://github.com/MohammedAbi">
   <img 
     src="https://github-readme-stats-fast.vercel.app/api?username=MohammedAbi&show_icons=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&bg_color=000000&hide_border=true" 
@@ -88,7 +87,6 @@ I'm Mohammed Abdul Abi, graduated with a Higher Professional Degree in Front-End
     alt="Top Languages"/>
 </a>
 
-</div>
 
 
 ---
