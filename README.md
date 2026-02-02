@@ -21,9 +21,18 @@ I'm Mohammed Abdul Abi, graduated with a Higher Professional Degree in Front-End
 ---
 
 ## 🌟 Projects Preview
-<p align="center">
-  <img src="https://github.com/MohammedAbi/gif/blob/main/gif/Holidaze.gif?raw=true" width="300" alt="Holidaze project"/>
-</p>
+
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+  <img src="https://github.com/MohammedAbi/gif/blob/main/gif/Holidaze.gif?raw=true" height="200" alt="Holidaze project" style="display:block;"/>
+
+  <img src="https://github.com/MohammedAbi/gif/blob/main/gif/vivatrend.gif?raw=true" height="200" alt="VivaTrend project" style="display:block;"/>
+
+  <img src="https://github.com/MohammedAbi/gif/blob/main/gif/echopost.gif?raw=true" height="200" alt="Echopost project" style="display:block;"/>
+
+</div>
+
+
 
 ---
 
