@@ -73,33 +73,40 @@ I'm Mohammed Abdul Abi, graduated with a Higher Professional Degree in Front-End
 
 ## 📊 GitHub Stats & Badges
 
-<!-- Full-width GitHub Stats Card -->
-<a href="https://github.com/MohammedAbi">
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api?username=MohammedAbi&show_icons=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&bg_color=000000&hide_border=true" 
-    alt="MohammedAbi's GitHub stats"/>
-</a>
+<!-- Top row: GitHub Stats + Streak Stats -->
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
-<!-- Streak Stats + Top Languages side by side -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/MohammedAbi">
+    <img 
+      src="https://github-readme-stats-fast.vercel.app/api?username=MohammedAbi&show_icons=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&bg_color=000000&hide_border=true" 
+      width="300"
+      alt="MohammedAbi's GitHub stats"
+      style="border:0;"/>
+  </a>
+
   <!-- GitHub Streak Stats Card -->
   <a href="https://github.com/MohammedAbi">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAbi&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
+      src="https://github-readme-stats-fast.vercel.app/api?username=MohammedAbi&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&bg_color=000000&hide_border=true&custom_title=Streak+Stats" 
+      width="300"
       alt="MohammedAbi's GitHub streak stats"
-      style="border:0;"
-    />
+      style="border:0;"/>
   </a>
 
-  <!-- Top Languages Card -->
+</div>
+
+<!-- Bottom row: Top Languages centered -->
+<div style="display: flex; justify-content: center; margin-top: 10px;">
   <a href="https://github.com/MohammedAbi">
     <img 
       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohammedAbi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" 
+      width="600"
       alt="Top Languages"
-      style="border:0;"
-    />
+      style="border:0;"/>
   </a>
 </div>
+
 
 ---
 
