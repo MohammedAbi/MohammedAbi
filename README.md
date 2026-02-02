@@ -107,7 +107,6 @@ I'm Mohammed Abdul Abi, graduated with a Higher Professional Degree in Front-End
   </a>
 </div>
 
-
 ---
 
 ## 🌟 Projects
