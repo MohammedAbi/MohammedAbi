@@ -19,6 +19,14 @@ I'm Mohammed Abdul Abi, graduated with a Higher Professional Degree in Front-End
 - Open to collaborating on front-end projects involving API integration, database interaction, and dynamic, data-driven applications
 
 ---
+## Preview My Projects
+<p align="center">
+  <img src="https://github.com/MohammedAbi/gif/blob/main/gif/Holidaze.gif?raw=true" width="300" alt="Holidaze project"/>
+</p>
+
+
+---
+
 
 ## 🛠️ Skills
 
@@ -57,25 +65,28 @@ I'm Mohammed Abdul Abi, graduated with a Higher Professional Degree in Front-End
 
 ## 📊 GitHub Stats & Badges
 
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 100px;">
+<!-- GitHub Stats Card -->
+<a href="https://github.com/MohammedAbi">
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=MohammedAbi&show_icons=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&bg_color=000000&hide_border=true" 
+    alt="MohammedAbi's GitHub stats"/>
+</a>
 
+<!-- GitHub Streak Stats Card -->
+<a href="https://github.com/MohammedAbi">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAbi&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
+    alt="MohammedAbi's GitHub streak stats" 
+  />
+</a>
 
-  <!-- GitHub Streak Stats Card -->
-  <a href="https://github.com/MohammedAbi">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAbi&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
-      alt="MohammedAbi's GitHub streak stats" 
-    />
-  </a>
-  
-
-  <!-- Top Languages Card -->
-  <a href="https://github.com/mohammedabi">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedabi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" 
-      alt="Top Languages" 
-    />
-  </a>
+<!-- Top Languages Card -->
+<a href="https://github.com/MohammedAbi">
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohammedAbi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" 
+    alt="Top Languages"/>
+</a>
 
 </div>
 
