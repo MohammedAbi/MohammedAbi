@@ -112,6 +112,8 @@ Node.js, Express, MongoDB, Firebase
 
 ![IssueHub](https://github.com/user-attachments/assets/41f9b198-60c0-4455-9904-ec8bb5ee0890)
 
+A modern issue tracking platform with authentication, role-based access, and real-time updates.
+
 **Tech Stack:** React, TypeScript, TailwindCSS, Vite, Express, MongoDB, JWT
 
 - 🔗 Live Client: https://issuehubtracker.netlify.app/
