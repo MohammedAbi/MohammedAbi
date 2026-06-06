@@ -108,6 +108,24 @@ Node.js, Express, MongoDB, Firebase
 
 ---
 
+# 🐛 IssueHub – Issue Tracking Platform
+
+![IssueHub](image-url)
+
+**Tech Stack:** React, TypeScript, TailwindCSS, Vite, Express, MongoDB, JWT
+
+- 🔗 Live Client: https://issuehubtracker.netlify.app/
+- 🔗 GitHub: https://github.com/MohammedAbi/issuehub
+
+## Test Users
+alice@test.com / 123456
+
+## Links
+- Repository: https://github.com/MohammedAbi/issuehub
+- Live Client: https://issuehubtracker.netlify.app/
+
+---
+
 ## 📊 GitHub Overview
 
 - Strong focus on frontend development  
