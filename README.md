@@ -110,7 +110,7 @@ Node.js, Express, MongoDB, Firebase
 
 # 🐛 IssueHub – Issue Tracking Platform
 
-![IssueHub](image-url)
+![IssueHub](https://github.com/user-attachments/assets/41f9b198-60c0-4455-9904-ec8bb5ee0890)
 
 **Tech Stack:** React, TypeScript, TailwindCSS, Vite, Express, MongoDB, JWT
 
