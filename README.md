@@ -109,8 +109,10 @@ A modern issue tracking platform with authentication, role-based access, and rea
 ---
 # Stavanger Pulse
 ![Stavanger-Puls UI](https://github.com/user-attachments/assets/ec61795b-79ee-430c-8264-21d004c078ea)
+A modern data dashboard for Stavanger, Norway, built with React, Vite, TypeScript, and TailwindCSS.
+
+
 **Tech Stack:** React 19, TypeScript, TailwindCSS, Vite, React Router DOM, Express, Leaflet (maps)
-A modern data dashboard for Stavanger, Norway, built with React, Vite, TypeScript, and TailwindCSS. 
 
 
 - 🔗 Live Client: https://stavanger-pulse.netlify.app/
