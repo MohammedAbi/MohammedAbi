@@ -108,16 +108,28 @@ Node.js, Express, MongoDB, Firebase
 
 ---
 
+# Stavanger Pulse
+
+![Stavanger-Puls UI](https://github.com/user-attachments/assets/ec61795b-79ee-430c-8264-21d004c078ea)
+
+A modern data dashboard for Stavanger, Norway, built with React, Vite, TypeScript, and TailwindCSS.  
+
+**Tech Stack:** React, TypeScript, TailwindCSS, Vite, Express, MongoDB, JWT
+
+- 🔗 Live Client: https://issuehubtracker.netlify.app/
+- 🔗 GitHub: https://github.com/MohammedAbi/issuehub
+
+---
 # 🐛 IssueHub – Issue Tracking Platform
 
 ![IssueHub](https://github.com/user-attachments/assets/41f9b198-60c0-4455-9904-ec8bb5ee0890)
 
 A modern issue tracking platform with authentication, role-based access, and real-time updates.
 
-**Tech Stack:** React, TypeScript, TailwindCSS, Vite, Express, MongoDB, JWT
+**Tech Stack:** React 19, TypeScript, TailwindCSS, Vite, React Router DOM, Express, Leaflet (maps)
 
-- 🔗 Live Client: https://issuehubtracker.netlify.app/
-- 🔗 GitHub: https://github.com/MohammedAbi/issuehub
+- 🔗 Live Client: https://stavanger-pulse.netlify.app/
+- 🔗 GitHub:  https://github.com/MohammedAbi/Stavanger-Pulse
 
 ---
 
