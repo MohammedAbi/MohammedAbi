@@ -93,18 +93,6 @@ A client-side social media application with posts, reactions, and search functio
 - 🔗 Live: https://sma-social-media-application-2.netlify.app/  
 - 🔗 GitHub: https://github.com/MohammedAbi/css-framework  
 
----
-
-## 🛠️ Tech Stack
-
-**Frontend:**
-HTML, CSS, JavaScript, React, TypeScript, TailwindCSS, Sass
-
-**Tools:**
-Git, GitHub, Vite, Webpack, Figma, VS Code
-
-**Backend (basic):**
-Node.js, Express, MongoDB, Firebase
 
 ---
 
